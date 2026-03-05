@@ -1,2 +1,3 @@
 # Dash_teste
-Dashboard de teste para Claro
+
+Analisar o perfil dos clientes considerando variáveis como país, produtos adquiridos, atividade da conta e churn, permitindo gerar insights para retenção e estratégias de negócio.
